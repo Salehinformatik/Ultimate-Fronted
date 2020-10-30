@@ -1,1 +1,1 @@
-const mymap="nfsdsdfsd";var s="dflsdjfsdjf";const{set:set}=require("lodash"),mySet="gdfgdfgf";var ddd="sdf,msd,fn";
+$(function(){"use strict";$(".toggle-sidebar").on("click",function(){$(".content-area, .sidebar").toggleClass("no-sidebar")})});const mymap="nfsdsdfsd";var s="dflsdjfsdjf";const{set:set}=require("lodash"),mySet="gdfgdfgf";var ddd="sdf,msd,fn";
