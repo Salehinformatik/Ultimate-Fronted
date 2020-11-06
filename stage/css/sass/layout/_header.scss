@@ -12,6 +12,9 @@
   }
   .toggle-sidebar {
     cursor: pointer;
+    &:hover {
+      color: #27ae60;
+    }
   }
   .notifications-container {
     display: inline-block;
